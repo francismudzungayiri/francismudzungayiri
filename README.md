@@ -1,7 +1,7 @@
 - 👋 Hi, I’m francis mudzungayiri
-- 👀 I’m interested in web and mobile development
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on web and mobile dev projects
+- 👀 I’m interested in web and mobile development not forgetting the hot topic of the decade machine learning
+- 🌱 I’m currently a web and mobile developer 
+- 💞️ I’m looking to collaborate on web and mobile and machine learning  dev projects 
 - 📫 How to reach me fmudzungayiri@gmail.com
 
 <!---
